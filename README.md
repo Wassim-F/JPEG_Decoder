@@ -22,6 +22,6 @@ The program converts `.jpg` images into `.ppm` format for visualization.
 
 ## Build & Run  
 
-make
-./jpeg2ppm images/name.jpg
-open images/name.ppm   # to visualize the decoded image
+- make
+- ./jpeg2ppm images/name.jpg
+- open images/name.ppm   # to visualize the decoded image
